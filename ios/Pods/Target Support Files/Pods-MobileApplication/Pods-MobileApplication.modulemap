@@ -1,0 +1,6 @@
+module Pods_MobileApplication {
+  umbrella header "Pods-MobileApplication-umbrella.h"
+
+  export *
+  module * { export * }
+}
